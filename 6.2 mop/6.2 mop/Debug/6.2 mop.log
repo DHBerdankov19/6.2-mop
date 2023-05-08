@@ -1,0 +1,6 @@
+﻿  6.2 mop.cpp
+C:\Users\dimit\source\repos\6.2 mop\6.2 mop\6.2 mop.cpp(20,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dimit\source\repos\6.2 mop\6.2 mop\6.2 mop.cpp(26,37): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dimit\source\repos\6.2 mop\6.2 mop\6.2 mop.cpp(61,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dimit\source\repos\6.2 mop\6.2 mop\6.2 mop.cpp(74,33): warning C4018: '<': signed/unsigned mismatch
+  6.2 mop.vcxproj -> C:\Users\dimit\source\repos\6.2 mop\Debug\6.2 mop.exe
